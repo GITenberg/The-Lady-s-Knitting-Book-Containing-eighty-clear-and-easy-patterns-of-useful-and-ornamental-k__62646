@@ -1,11 +1,16 @@
 _repo: The-Lady-s-Knitting-Book-Containing-eighty-clear-and-easy-patterns-of-useful-and-ornamental-k__62646
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62646-h/images/cover.jpg
 creator:
   author:
     agent_name: Corbould, Elvina M.
     gutenberg_agent_id: '52054'
     url: http://www.gutenberg.org/2009/agents/52054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62646#The-Lady-s-Knitting-Book-Containing-eighty-clear-and-easy-patterns-of-useful-and-ornamental-k_
 gutenberg_issued: '2020-07-14'
 gutenberg_type: Text
 identifiers:
